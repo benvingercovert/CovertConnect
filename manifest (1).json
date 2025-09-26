@@ -1,0 +1,11 @@
+{
+  "background_color": "#414141",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sites.google",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sites.google",
+  "start_url": "/CovertConnect",
+  "theme_color": "#8fe7d8"
+}
