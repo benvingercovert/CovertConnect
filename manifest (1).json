@@ -6,6 +6,6 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "sites.google",
-  "start_url": "https://sites.google.com/covertauto.com/covertconnect/home",
+  "start_url": "/https://sites.google.com/covertauto.com/covertconnect/home",
   "theme_color": "#8fe7d8"
 }
